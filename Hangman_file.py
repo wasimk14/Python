@@ -167,7 +167,7 @@ if guess:
     # CHECK WIN / LOSE
     # -----------------------------
     if "_" not in st.session_state.placeholder:
-        st.success(f"🎉 You won! The word was {st.session_state.chosen_word.upper()}")
+        st.success(f"🎉 My Baby won! The word was {st.session_state.chosen_word.upper()}")
         if st.button("New Game"):
             for key in list(st.session_state.keys()):
                 del st.session_state[key]
