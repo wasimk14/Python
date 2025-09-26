@@ -7,7 +7,7 @@ import random
 word_list = {
     # Fruits
     "apple": "A red or green fruit that keeps the doctor away.",
-    "banana": "A long yellow fruit, monkeys love it.",
+    "banana": "Juice do doe! A long yellow fruit, monkeys love it.",
     "grape": "Tiny purple or green fruit, used to make wine.",
     "orange": "A citrus fruit and also a color.",
     "mango": "A tropical fruit, king of fruits in India.",
@@ -21,7 +21,7 @@ word_list = {
     "lion": "Known as the king of the jungle.",
     "tiger": "Striped big cat.",
     "zebra": "Looks like a horse with black and white stripes.",
-    "giraffe": "Tallest animal, has a long neck.",
+    "giraffe": "Tum kabhi baithe kya? Tallest animal, has a long neck.",
     "camel": "The ship of the desert.",
     "rabbit": "Small mammal with long ears.",
     "monkey": "Primate that likes to swing on trees.",
@@ -35,7 +35,7 @@ word_list = {
     "truck": "Large vehicle used to transport goods.",
     "train": "Runs on tracks.",
     "plane": "Flies in the sky.",
-    "boat": "Floats on water.",
+    "boat": "Abbu nahi bithaye Floats on water.",
     "ship": "Big boat for carrying people or cargo.",
     "scooter": "Two-wheeler, lighter than a motorcycle.",
     "bicycle": "Two wheels, powered by pedaling.",
@@ -80,7 +80,7 @@ word_list = {
     # Food
     "bread": "Staple made from flour.",
     "butter": "Made by churning cream.",
-    "cheese": "Comes from milk, many varieties.",
+    "cheese": "Tum kab khaye! Comes from milk, many varieties.",
     "milk": "White liquid from cows.",
     "egg": "Laid by hens.",
     "rice": "Staple grain in Asia.",
